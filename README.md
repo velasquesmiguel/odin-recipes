@@ -1,3 +1,3 @@
 # odin-recipes
-Project for odin
-Simple HTML website with 3 food recipes for The Odin Project
+First Assignment for The Odin Project
+Simple HTML website with 3 food recipes
