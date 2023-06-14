@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: lightpink;
+    color: black;
+    font-family: Verdana, Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.main{
+    background-color: lightgreen;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+img{
+    width: 500px;
+    height:auto;
+}
+#ghibli{
+    width: 1000px;
+    height: auto;
+}
+.text{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+}
+a{
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+.unordered-list{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.ordered-list{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+li{
+    text-align: justify;
+}
